@@ -80,9 +80,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ​
 53
 ## 📫 Como me encontrar
-54
-​
-55
+
 [![LinkedIn](https://www.linkedin.com/in/gustavo-nunes-a44ba234b/)  
 56
 [![Instagram](https://www.instagram.com/gununes.7/?next=%2F)  
