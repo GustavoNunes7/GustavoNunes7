@@ -22,11 +22,11 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 |-----------------------|-------------------------------------|--------------------------|
 
-| **Pefil Gustavo Nunes** | [🔗 Ver online](http://127.0.0.1:5500/Perfil_GNunes_HTML_CSS-main/Perfil_GNunes_HTML_CSS-main/index.html) | HTML / CSS           |
+| **Pefil Gustavo Nunes** | [🔗 Ver online](http://127.0.0.1:5500/Perfil_GNunes_HTML_CSS-main/Perfil_GNunes_HTML_CSS-main/index.html) | HTML / CSS|
 
 | **Campeonato de Jokempo** | [🔗 Ver online](https://github.com/GustavoNunes7/Campeonato_de_Jokempo) | Java / MySQL|
 
-| *Jogo da Capivarinha** | [🔗 Ver online](https://github.com/GustavoNunes7/Jogo-da-Capivarinha) | Python          |
+| *Jogo da Capivarinha** | [🔗 Ver online](https://github.com/GustavoNunes7/Jogo-da-Capivarinha) | Python |
 
 
 ---
@@ -47,7 +47,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://www.linkedin.com/in/gustavo-nunes-a44ba234b/)  
+[! [LinkedIn](https://www.linkedin.com/in/gustavo-nunes-a44ba234b/)  
 
 [![Instagram](https://www.instagram.com/gununes.7/?next=%2F)  
 
