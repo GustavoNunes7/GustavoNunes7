@@ -36,7 +36,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 - 🎓 Atualmente estudo no **Senai Guarulhos - Hermenegildo Campos de Almeida/Sesi Hagop Guerekmezian - 427**
 
 - 💻 Estou aprendendo **GitHub,Front-end,Back-end,LIMA e Banco de Dados**
-- 
+  
 - 🎯 Meu objetivo é **se tornar um Técnico de Desenvolvimento de Sistemas**
  
 - 📚 Gosto de aprender sobre **tecnologia**
