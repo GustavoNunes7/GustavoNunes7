@@ -45,15 +45,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://www.linkedin.com/in/gustavo-nunes-a44ba234b/)  
-
-[![Instagram](https://www.instagram.com/gununes.7/?next=%2F)  
-
-[![GitHub](https://github.com/GustavoNunes7/)
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-a44ba234b/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gununes.7/?next=%2F)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)] (https://github.com/GustavoNunes7/)
 
 
 
