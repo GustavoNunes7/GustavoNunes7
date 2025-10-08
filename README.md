@@ -24,7 +24,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | **Campeonato de Jokempo** | [🔗 Ver online](https://github.com/GustavoNunes7/Campeonato_de_Jokempo) | Java / MySQL|
 
-| *Jogo da Capivarinha** | [🔗 Ver online](https://github.com/GustavoNunes7/Jogo-da-Capivarinha) | Python |
+| **Jogo da Capivarinha** | [🔗 Ver online](https://github.com/GustavoNunes7/Jogo-da-Capivarinha) | Python |
 
 
 ---
