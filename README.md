@@ -41,7 +41,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
  
 - 📚 Gosto de aprender sobre **tecnologia**
   
-- ✝ "Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a minha destra fiel" - Isaías 41.10
+- ✝ "Não fiquem com medo, pois estou com vocês; não se apavorem, pois eu sou o seu Deus. Eu lhes dou forças e os ajudo; eu os protejo com a minha forte mão" - Isaías 41.10
   
 ---
 
