@@ -20,7 +20,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 |-----------------------|-------------------------------------|--------------------------|
 
-| **Pefil Gustavo Nunes** | [🔗 Ver online](http://127.0.0.1:5500/Perfil_GNunes_HTML_CSS-main/Perfil_GNunes_HTML_CSS-main/index.html) | HTML / CSS|
+| **Pefil Gustavo Nunes** | [🔗 Ver online](https://gustavonunes7.github.io/Perfil_GNunes_HTML_CSS/) | HTML / CSS|
 
 | **Campeonato de Jokempo** | [🔗 Ver online](https://github.com/GustavoNunes7/Campeonato_de_Jokempo) | Java / MySQL|
 
