@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 Sou estudante de Desenvolvimento de Sistemas com foco em desenvolvimento web.  
-Venho praticando diariamente com projetos reais, buscando evoluir tanto no **Front-End** quanto no **Back-End**.
+Pratico diariamente com projetos reais, evoluindo tanto no **Front-End** quanto no **Back-End**.
 
-Atualmente atuo como **Jovem Aprendiz no Consórcio Cantareira**, onde desenvolvo habilidades como organização, responsabilidade e trabalho em equipe.
+Atualmente atuo como **Jovem Aprendiz no Consórcio Cantareira**, desenvolvendo habilidades como organização, responsabilidade e trabalho em equipe.
 
 ---
 
@@ -36,37 +36,29 @@ Atualmente atuo como **Jovem Aprendiz no Consórcio Cantareira**, onde desenvolv
 
 ## 🚀 Projetos em destaque
 
-### 🔗 Link na Bio
-📌 Página responsiva para centralizar links importantes  
+### 🔗 Página de Links (Link na Bio)
+📌 Centraliza todos os links importantes  
 🔧 HTML • CSS  
-👉 https://gustavonunes7.github.io/Perfil_GNunes_HTML_CSS/
+👉 [Acessar página](https://gustavonunes7.github.io/GN/)
 
 ---
 
 ### 🐶 Explorador de Cachorros
 📌 Consumo de API para exibir raças de cães  
 🔧 HTML • CSS • JavaScript  
-👉 https://gustavonunes7.github.io/Explorador_de_Cachorros/
 
 ---
 
 ### 🎮 Jogo do Mario
 📌 Projeto interativo desenvolvido em sala de aula  
 🔧 HTML • CSS • JavaScript  
-👉 https://github.com/GustavoNunes7/Super_Mario_em_JS
-👉 
 
 ---
 
 ### 🧠 Jogo da Capivarinha
 📌 Projeto em Python focado em lógica  
 🔧 Python  
-👉 https://github.com/GustavoNunes7/Jogo-da-Capivarinha
-
----
-
-## 📈 GitHub Stats
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNunes7&show_icons=true&theme=tokyonight)
+👉 [Ver no GitHub](https://github.com/GustavoNunes7/Jogo-da-Capivarinha)
 
 ---
 
@@ -82,5 +74,5 @@ Evoluir como Desenvolvedor Full Stack e conquistar minha primeira oportunidade n
 
 ---
 
-## ✝️
-"Não fiquem com medo, pois estou com vocês; não se apavorem, pois eu sou o seu Deus. Eu lhes dou forças e os ajudo; eu os protejo com a minha forte mão." — Isaías 41:10
+## ✝️ Fé
+*"Não fiquem com medo, pois estou com vocês; não se apavorem, pois eu sou o seu Deus. Eu lhes dou forças e os ajudo; eu os protejo com a minha forte mão."* — Isaías 41:10
