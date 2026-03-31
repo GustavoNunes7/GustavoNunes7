@@ -1,55 +1,85 @@
-# 👋 Olá! Meu Nome é Gustavo Nunes
+# 👋 Olá! Eu sou o Gustavo Nunes
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-end,Back-end, LIMA e Programação.
-
----
-
-## 🎯 Tecnologias que estou aprendendo
-
-
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## 🚀 Meus Projetos
-
-| Projeto               | Preview Online                        | Tecnologias Usadas        |
-
-|-----------------------|-------------------------------------|--------------------------|
-
-| **Perfil Gustavo Nunes** | [🔗 Ver online](https://gustavonunes7.github.io/Perfil_GNunes_HTML_CSS/) | HTML / CSS|
-
-| **Campeonato de Jokempo** | [🔗 Ver online](https://github.com/GustavoNunes7/Campeonato_de_Jokempo) | Java / MySQL|
-
-| **Jogo da Capivarinha** | [🔗 Ver online](https://github.com/GustavoNunes7/Jogo-da-Capivarinha) | Python |
-
+💻 Desenvolvedor Full Stack em formação  
+🎓 Estudante de Desenvolvimento de Sistemas (SENAI + SESI)  
+📍 Guarulhos - SP  
 
 ---
 
-## 💡 Sobre Mim
+## 🚀 Sobre mim
+Sou estudante de Desenvolvimento de Sistemas com foco em desenvolvimento web.  
+Venho praticando diariamente com projetos reais, buscando evoluir tanto no **Front-End** quanto no **Back-End**.
 
-- 🎓 Atualmente estudo no **Senai Guarulhos - Hermenegildo Campos de Almeida/Sesi Hagop Guerekmezian - 427**
-
-- 💻  **Jovem Aprendiz do Consórcio Cantareira**
-  
-- 🎯 Meu objetivo é **se tornar um Técnico de Desenvolvimento de Sistemas**
- 
-- 📚 Gosto de aprender sobre **tecnologia**
-  
-- ✝ "Não fiquem com medo, pois estou com vocês; não se apavorem, pois eu sou o seu Deus. Eu lhes dou forças e os ajudo; eu os protejo com a minha forte mão" - Isaías 41.10
-  
----
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-a44ba234b/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gununes.7/?next=%2F)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoNunes7/)
+Atualmente atuo como **Jovem Aprendiz no Consórcio Cantareira**, onde desenvolvo habilidades como organização, responsabilidade e trabalho em equipe.
 
 ---
 
+## 💻 Tecnologias
 
+### 🖥️ Front-End
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
+### ⚙️ Back-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔗 Link na Bio
+📌 Página responsiva para centralizar links importantes  
+🔧 HTML • CSS  
+👉 https://gustavonunes7.github.io/Perfil_GNunes_HTML_CSS/
+
+---
+
+### 🐶 Explorador de Cachorros
+📌 Consumo de API para exibir raças de cães  
+🔧 HTML • CSS • JavaScript  
+👉 (coloque o link aqui)
+
+---
+
+### 🎮 Jogo do Mario
+📌 Projeto interativo desenvolvido em sala de aula  
+🔧 HTML • CSS • JavaScript  
+👉 (coloque o link aqui)
+
+---
+
+### 🧠 Jogo da Capivarinha
+📌 Projeto em Python focado em lógica  
+🔧 Python  
+👉 https://github.com/GustavoNunes7/Jogo-da-Capivarinha
+
+---
+
+## 📈 GitHub Stats
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoNunes7&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Objetivo
+Evoluir como Desenvolvedor Full Stack e conquistar minha primeira oportunidade na área de tecnologia.
+
+---
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-a44ba234b/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gununes.7/?next=%2F)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoNunes7)
+
+---
+
+## ✝️
+"Não fiquem com medo, pois estou com vocês; não se apavorem, pois eu sou o seu Deus. Eu lhes dou forças e os ajudo; eu os protejo com a minha forte mão." — Isaías 41:10
