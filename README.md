@@ -46,13 +46,13 @@ Atualmente atuo como **Jovem Aprendiz no Consórcio Cantareira**, desenvolvendo 
 ### 🐶 Explorador de Cachorros
 📌 Consumo de API para exibir raças de cães  
 🔧 HTML • CSS • JavaScript  
-
+👉 [Acessar página](https://gustavonunes7.github.io/Explorador_de_Cachorros/)
 ---
 
 ### 🎮 Jogo do Mario
 📌 Projeto interativo desenvolvido em sala de aula  
 🔧 HTML • CSS • JavaScript  
-
+ 👉 [Acessar página](https://gustavonunes7.github.io/Super_Mario_em_JS/)
 ---
 
 ### 🧠 Jogo da Capivarinha
