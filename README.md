@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Gustavo Nunes
+# 👋 Olá! Prazer, Gustavo Nunes 😎
 
 💻 Desenvolvedor Full Stack em formação  
 🎓 Estudante de Desenvolvimento de Sistemas (SENAI + SESI)  
