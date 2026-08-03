@@ -70,7 +70,7 @@ Evoluir como Desenvolvedor Full Stack e conquistar minha primeira oportunidade n
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-silva7-a44ba234b/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-da-silva7/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gununes.7/?next=%2F)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoNunes7)
 
