@@ -10,8 +10,6 @@
 Sou estudante de Desenvolvimento de Sistemas com foco em desenvolvimento web.  
 Pratico diariamente com projetos reais, evoluindo tanto no **Front-End** quanto no **Back-End**.
 
-Atualmente atuo como **Jovem Aprendiz no Consórcio Cantareira**, desenvolvendo habilidades como organização, responsabilidade e trabalho em equipe.
-
 ---
 
 ## 💻 Tecnologias
