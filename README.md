@@ -111,9 +111,9 @@ Projeto desenvolvido em Python para praticar lógica de programação e organiza
 
 | Instituição / experiência | Área |
 |---|---|
-| 🏫 **SESI** | Formação escolar e projetos educacionais |
-| 🏭 **SENAI Hermenegildo Campos de Almeida** | Técnico em Desenvolvimento de Sistemas — em formação |
-| 💼 **Consórcio Cantareira** | Experiência profissional como Jovem Aprendiz |
+| 🏫 **SESI** | Formação escolar e projetos educacionais | 2015 - 2026 |
+| 🏭 **SENAI Hermenegildo Campos de Almeida** | Técnico em Desenvolvimento de Sistemas | 2025 - 2026 |
+| 💼 **Consórcio Cantareira** | Experiência profissional como Jovem Aprendiz | 2025 - 2026 |
 
 ### 📜 Cursos e certificados
 
@@ -125,18 +125,6 @@ Além da formação técnica, busco ampliar meus conhecimentos por meio de curso
 - **SESI:** atividades e participações educacionais.
 
 📂 **[Ver certificados e minha trajetória no portfólio](https://gustavonunes7.github.io/GN/)**
-
----
-
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNunes7&layout=compact&hide_border=true&bg_color=05070B&title_color=42A5F5&text_color=C7D2E0&langs_count=6" alt="Linguagens mais presentes nos repositórios públicos" />
-
-<sub>O gráfico mostra linguagens detectadas nos repositórios públicos; não representa nível de proficiência. Caso o serviço esteja indisponível, o gráfico pode não aparecer.</sub>
-
-</div>
 
 ---
 
