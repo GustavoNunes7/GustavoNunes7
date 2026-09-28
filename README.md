@@ -1,9 +1,8 @@
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070B,45:0A1F44,100:0B3D2E&text=Gustavo%20Nunes&fontColor=F5F7FA&fontSize=52&fontAlignY=37&desc=T%C3%A9cnico%20em%20Desenvolvimento%20de%20Sistemas%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Banner Gustavo Nunes" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=42A5F5&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Nunes!;Estudante+de+Desenvolvimento+de+Sistemas;Front-end+%2B+Back-end;Aprendendo%2C+criando+e+evoluindo+%F0%9F%9A%80" alt="Apresentação animada" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=42A5F5&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Nunes!;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+em+forma%C3%A7%C3%A3o;Front-end+%2B+Back-end;Aprendendo%2C+criando+e+evoluindo+%F0%9F%9A%80" alt="Apresentação animada" /></a>
 
 <p>
   <a href="https://gustavonunes7.github.io/GN/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
@@ -19,7 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Gustavo Nunes da Silva**, estudante de **Desenvolvimento de Sistemas** no **SENAI** e aluno do **SESI**, em Guarulhos (SP). Estou construindo minha trajetória como **desenvolvedor Full Stack**, com projetos que unem interfaces web, lógica de programação e soluções práticas.
+Sou **Gustavo Nunes da Silva**, estudante do curso **Técnico em Desenvolvimento de Sistemas no SENAI** e aluno do **SESI**, em Guarulhos (SP). Estou construindo minha trajetória na área de tecnologia, com foco em **Front-end e Back-end**, criando projetos que unem interfaces web, lógica de programação e soluções práticas.
 
 - 💻 **Front-end e Back-end:** HTML, CSS, JavaScript, Python e Java.
 - 🗄️ **Banco de dados e ferramentas:** MySQL, Git e GitHub.
@@ -113,17 +112,17 @@ Projeto desenvolvido em Python para praticar lógica de programação e organiza
 | Instituição / experiência | Área |
 |---|---|
 | 🏫 **SESI** | Formação escolar e projetos educacionais |
-| 🏭 **SENAI Hermenegildo Campos de Almeida** | Desenvolvimento de Sistemas |
+| 🏭 **SENAI Hermenegildo Campos de Almeida** | Técnico em Desenvolvimento de Sistemas — em formação |
 | 💼 **Consórcio Cantareira** | Experiência profissional como Jovem Aprendiz |
 
 ### 📜 Cursos e certificados
 
 Além da formação técnica, busco ampliar meus conhecimentos por meio de cursos e atividades complementares.
 
-- **SENAI:** Desenvolvimento de Sistemas e cursos complementares.
+- **SENAI:** formação técnica em Desenvolvimento de Sistemas e cursos complementares.
 - **Fundação Bradesco:** Educação Financeira.
-- **SEBRAE:** Cursos de desenvolvimento pessoal e empreendedorismo.
-- **SESI:** Atividades e participações educacionais.
+- **SEBRAE:** cursos de desenvolvimento pessoal e empreendedorismo.
+- **SESI:** atividades e participações educacionais.
 
 📂 **[Ver certificados e minha trajetória no portfólio](https://gustavonunes7.github.io/GN/)**
 
@@ -135,7 +134,7 @@ Além da formação técnica, busco ampliar meus conhecimentos por meio de curso
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNunes7&layout=compact&hide_border=true&bg_color=05070B&title_color=42A5F5&text_color=C7D2E0&langs_count=6" alt="Linguagens mais presentes nos repositórios públicos" />
 
-<sub>O gráfico mostra linguagens detectadas nos repositórios públicos; não representa nível de proficiência.</sub>
+<sub>O gráfico mostra linguagens detectadas nos repositórios públicos; não representa nível de proficiência. Caso o serviço esteja indisponível, o gráfico pode não aparecer.</sub>
 
 </div>
 
