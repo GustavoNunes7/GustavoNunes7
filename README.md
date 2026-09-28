@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070B,45:0A1F44,100:0B3D2E&text=Gustavo%20Nunes&fontColor=F5F7FA&fontSize=52&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Banner Gustavo Nunes" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070B,45:0A1F44,100:0B3D2E&text=Gustavo%20Nunes&fontColor=F5F7FA&fontSize=52&fontAlignY=37&desc=T%C3%A9cnico%20em%20Desenvolvimento%20de%20Sistemas%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Banner Gustavo Nunes" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=42A5F5&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Nunes!;Estudante+de+Desenvolvimento+de+Sistemas;Front-end+%2B+Back-end;Aprendendo%2C+criando+e+evoluindo+%F0%9F%9A%80" alt="Apresentação animada" /></a>
 
