@@ -1,78 +1,162 @@
-# 👋 Olá! Prazer, Gustavo Nunes 😎
+<div align="center">
 
-💻 Desenvolvedor Full Stack em formação  
-🎓 Estudante de Desenvolvimento de Sistemas (SENAI + SESI)  
-📍 Guarulhos - SP  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070B,45:0A1F44,100:0B3D2E&text=Gustavo%20Nunes&fontColor=F5F7FA&fontSize=52&fontAlignY=37&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Banner Gustavo Nunes" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=42A5F5&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Nunes!;Estudante+de+Desenvolvimento+de+Sistemas;Front-end+%2B+Back-end;Aprendendo%2C+criando+e+evoluindo+%F0%9F%9A%80" alt="Apresentação animada" /></a>
+
+<p>
+  <a href="https://gustavonunes7.github.io/GN/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0A1F44?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-nunes-da-silva7/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gununes.tech7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=GustavoNunes7&style=flat-square&color=0B3D2E&label=Visitas+ao+perfil" alt="Contador de visitas" />
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
-Sou estudante de Desenvolvimento de Sistemas com foco em desenvolvimento web.  
-Pratico diariamente com projetos reais, evoluindo tanto no **Front-End** quanto no **Back-End**.
+## 👨‍💻 Sobre mim
+
+Sou **Gustavo Nunes da Silva**, estudante de **Desenvolvimento de Sistemas** no **SENAI** e aluno do **SESI**, em Guarulhos (SP). Estou construindo minha trajetória como **desenvolvedor Full Stack**, com projetos que unem interfaces web, lógica de programação e soluções práticas.
+
+- 💻 **Front-end e Back-end:** HTML, CSS, JavaScript, Python e Java.
+- 🗄️ **Banco de dados e ferramentas:** MySQL, Git e GitHub.
+- 🔌 **Outros interesses:** APIs, redes, IoT e desenvolvimento de sistemas.
+- 🏗️ **Experiência:** atuação como Jovem Aprendiz no Consórcio Cantareira.
+- 🎯 **Objetivo:** continuar evoluindo tecnicamente e conquistar oportunidades na área de tecnologia.
+
+> Gosto de transformar o que aprendo em projetos reais: construir, testar, melhorar e compartilhar.
 
 ---
 
-## 💻 Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
-### 🖥️ Front-End
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+<div align="center">
 
-### ⚙️ Back-End
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+**Front-end**
 
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" />
 
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Back-end e banco de dados**
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark" alt="Python, Java e MySQL" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code" />
+
+</div>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🔗 Página de Links (Link na Bio)
-📌 Centraliza todos os links importantes  
-🔧 HTML • CSS  
-👉 [Acessar página](https://gustavonunes7.github.io/GN/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌐 Portfólio pessoal
+Minha apresentação profissional, projetos, tecnologias, trajetória e certificados — com identidade visual em **preto, azul escuro e verde**.
+
+**Tecnologias:** HTML · CSS · JavaScript
+
+[🔗 Acessar portfólio](https://gustavonunes7.github.io/GN/) · [💻 Repositório](https://github.com/GustavoNunes7/GN)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🐶 Explorador de Cachorros
-📌 Consumo de API para exibir raças de cães  
-🔧 HTML • CSS • JavaScript  
-👉 [Acessar página](https://gustavonunes7.github.io/Explorador_de_Cachorros/)
+Aplicação web que consome uma **API** para pesquisar e apresentar informações sobre raças de cães.
+
+**Tecnologias:** HTML · CSS · JavaScript · API
+
+[🔗 Ver projeto](https://gustavonunes7.github.io/Explorador_de_Cachorros/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍄 Super Mario em JavaScript
+Jogo interativo desenvolvido como atividade de aprendizagem, aplicando manipulação do DOM e lógica com JavaScript.
+
+**Tecnologias:** HTML · CSS · JavaScript
+
+[🎮 Jogar](https://gustavonunes7.github.io/Super_Mario_em_JS/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦫 Jogo da Capivarinha
+Projeto desenvolvido em Python para praticar lógica de programação e organização de código.
+
+**Tecnologia:** Python
+
+[💻 Ver no GitHub](https://github.com/GustavoNunes7/Jogo-da-Capivarinha)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Todos os repositórios](https://img.shields.io/badge/EXPLORAR_TODOS_OS_REPOSIT%C3%93RIOS-0A1F44?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoNunes7?tab=repositories)
+
+</div>
 
 ---
 
-### 🎮 Jogo do Mario
-📌 Projeto interativo desenvolvido em sala de aula  
-🔧 HTML • CSS • JavaScript  
- 👉 [Acessar página](https://gustavonunes7.github.io/Super_Mario_em_JS/)
- 
----
+## 🎓 Formação e trajetória
 
-### 🧠 Jogo da Capivarinha
-📌 Projeto em Python focado em lógica  
-🔧 Python  
-👉 [Ver no GitHub](https://github.com/GustavoNunes7/Jogo-da-Capivarinha)
+| Instituição / experiência | Área |
+|---|---|
+| 🏫 **SESI** | Formação escolar e projetos educacionais |
+| 🏭 **SENAI Hermenegildo Campos de Almeida** | Desenvolvimento de Sistemas |
+| 💼 **Consórcio Cantareira** | Experiência profissional como Jovem Aprendiz |
 
----
+### 📜 Cursos e certificados
 
-## 🎯 Objetivo
-Evoluir como Desenvolvedor Full Stack e conquistar minha primeira oportunidade na área de tecnologia.
+Além da formação técnica, busco ampliar meus conhecimentos por meio de cursos e atividades complementares.
 
----
+- **SENAI:** Desenvolvimento de Sistemas e cursos complementares.
+- **Fundação Bradesco:** Educação Financeira.
+- **SEBRAE:** Cursos de desenvolvimento pessoal e empreendedorismo.
+- **SESI:** Atividades e participações educacionais.
 
-## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nunes-da-silva7/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gununes.7/?next=%2F)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoNunes7)
+📂 **[Ver certificados e minha trajetória no portfólio](https://gustavonunes7.github.io/GN/)**
 
 ---
 
-## ✝️ Fé
-*"Não fiquem com medo, pois estou com vocês; não se apavorem, pois eu sou o seu Deus. Eu lhes dou forças e os ajudo; eu os protejo com a minha forte mão."* — Isaías 41:10
+## 📊 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNunes7&layout=compact&hide_border=true&bg_color=05070B&title_color=42A5F5&text_color=C7D2E0&langs_count=6" alt="Linguagens mais presentes nos repositórios públicos" />
+
+<sub>O gráfico mostra linguagens detectadas nos repositórios públicos; não representa nível de proficiência.</sub>
+
+</div>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+<div align="center">
+
+Estou sempre aprendendo e aberto a trocar ideias sobre **desenvolvimento web, programação e tecnologia**.
+
+<a href="https://www.linkedin.com/in/gustavo-nunes-da-silva7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/GustavoNunes7"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/gununes.7/"><img src="https://img.shields.io/badge/Instagram-0B3D2E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:gununes.tech7@gmail.com"><img src="https://img.shields.io/badge/E--mail-0A1F44?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+
+### ✝️ Fé e propósito
+
+*“Não temas, porque eu sou contigo.”* — Isaías 41:10
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B3D2E,50:0A1F44,100:05070B" width="100%" alt="Rodapé decorativo" />
+
+**Obrigado pela visita! 💙💚**
+
+</div>
