@@ -10,8 +10,6 @@
   <a href="mailto:gununes.tech7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=GustavoNunes7&style=flat-square&color=0B3D2E&label=Visitas+ao+perfil" alt="Contador de visitas" />
-
 </div>
 
 ---
