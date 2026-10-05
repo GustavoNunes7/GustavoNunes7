@@ -59,7 +59,7 @@ Minha apresentação profissional, projetos, tecnologias, trajetória e certific
 
 **Tecnologias:** HTML · CSS · JavaScript
 
-[🔗 Acessar portfólio](https://gustavonunes7.github.io/GN/) · [💻 Repositório](https://github.com/GustavoNunes7/GN)
+[🔗 Acessar portfólio](https://gustavonunes7.github.io/GN/) · 
 
 </td>
 <td width="50%" valign="top">
