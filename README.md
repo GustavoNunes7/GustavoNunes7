@@ -141,6 +141,6 @@ Estou sempre aprendendo e aberto a trocar ideias sobre **desenvolvimento web, pr
 
 *“Não temas, porque eu sou contigo.”* — Isaías 41:10
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070B,45:0A1F44,100:0B3D2E&text=Gustavo%20Nunes&fontColor=F5F7FA&fontSize=52&fontAlignY=32&desc=T%C3%A9cnico%20em%20Desenvolvimento%20de%20Sistemas%20em%20forma%C3%A7%C3%A3o%0A%0AObrigado%20pela%20visita!%20%F0%9F%92%99%F0%9F%92%9A&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Banner Gustavo Nunes" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070B,45:0A1F44,100:0B3D2E&text=Gustavo%20Nunes&fontColor=F5F7FA&fontSize=52&fontAlignY=37&desc=Obrigado%20pela%20visita!%20%F0%9F%92%99%F0%9F%92%9A&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Banner Gustavo Nunes" />
 
 </div>
