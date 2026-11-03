@@ -21,7 +21,7 @@ Sou **Gustavo Nunes da Silva**, estudante do curso **Técnico em Desenvolvimento
 - 💻 **Front-end e Back-end:** HTML, CSS, JavaScript, Python e Java.
 - 🗄️ **Banco de dados e ferramentas:** MySQL, Git e GitHub.
 - 🔌 **Outros interesses:** APIs, redes, IoT e desenvolvimento de sistemas.
-- 🏗️ **Experiência:** atuação como Jovem Aprendiz no Consórcio Cantareira.
+- 🏗️ **Experiência:** Passagem como Jovem Aprendiz no Consórcio Cantareira.
 - 🎯 **Objetivo:** continuar evoluindo tecnicamente e conquistar oportunidades na área de tecnologia.
 
 > Gosto de transformar o que aprendo em projetos reais: construir, testar, melhorar e compartilhar.
